@@ -8,5 +8,5 @@
 ---
 - Task
      - Summarize what you understand from each video in a file and practice everything.
-    - Read this [Case Study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view?usp=drive_link) then apply ERD & Mapping.
+    - Read this [Case Study](https://drive.google.com/file/d/1DWNpveDlPPS0lBZ_bD88ayIma7XLVFQ4/view?usp=drive_link) then apply ERD & Mapping (This website may help [ERDPlus](https://erdplus.com/)).
     - Finally, upload all your work and submit it here: [Submission Form](https://forms.gle/7YYa9k55KM5ciysf8).
