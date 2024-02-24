@@ -1,9 +1,9 @@
 # Week 04
    - Fundamentals of Database Systems
       - [El Desoky (videos 19:37)](https://www.youtube.com/playlist?list=PL37D52B7714788190)
+   - Read and review from these [Slides](https://drive.google.com/drive/folders/1zIO5fsdij-1afPkfSJQzTIw8f9SFF8s6?usp=drive_link).
 ---
    - Extra Resources for Help
-     - Read and review from these [Slides](https://drive.google.com/drive/folders/1zIO5fsdij-1afPkfSJQzTIw8f9SFF8s6?usp=drive_link).
      - If you fail to understand anything you can search here: [MaharaTech Course](https://maharatech.gov.eg/course/view.php?id=740).
 ---
 - Task
