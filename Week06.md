@@ -9,5 +9,5 @@
 ---
 - Task
     - Summarize what you understand from each video in a file and practice everything.
-    - Do ITI Assignments [Lab4](https://docs.google.com/document/d/17rF6dSZzezsupAitzA3w52_d0X6L1Mws/edit?usp=drive_link&ouid=115708496447827020766&rtpof=true&sd=true)
-    - Finally, make Github Repo and Upload your work on it, then submit its link here: [Submission Form](https://forms.gle/bqU7da6quPs6egg87).
+    - Do ITI Assignments [Lab4](https://docs.google.com/document/d/17rF6dSZzezsupAitzA3w52_d0X6L1Mws/edit?usp=drive_link&ouid=115708496447827020766&rtpof=true&sd=true).
+    - Finally, upload all your work and submit it here: [Submission Form](https://forms.gle/bqU7da6quPs6egg87).
